@@ -19,7 +19,7 @@ The purpose of this guide is to give you clear usage instructions.
 
     IPython         : type the command + <ENTER>
 
-    Editor          : type + select the command + <SHIFT + ENTER>
+    Editor          : <F9>
 
     Anaconda Prompt : python
 
