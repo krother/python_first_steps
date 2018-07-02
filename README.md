@@ -80,9 +80,9 @@ Get it from [www.anaconda.com/download/](https://www.anaconda.com/download/)
 
 ### 2. Run the example programs
 
-* *easy:* `dice.py` 
-* *medium:* `warhol.py`
-* *hard:* `logo.py`
+* *easy:* [`dice.py` ](dice.py)
+* *medium:* [`warhol.py`](warhol.py)
+* *hard:* [`logo.py`](logo.py)
 
 ### 3. Modify a program
 
